@@ -1,4 +1,7 @@
-<p align="center">
+
+  
+<p>
+ 
 <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
@@ -18,5 +21,8 @@
   <a href="https://www.facebook.com/nengnana08/" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
+
 </p>
 
+![](https://raw.githubusercontent.com/nengapi/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/nengapi/github-stats-transparent/output/generated/languages.svg)
